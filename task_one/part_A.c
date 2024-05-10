@@ -11,11 +11,7 @@
  * The 10 numbers will be used to test performance of algorithms 
  * on arrays and linked lists.
  * Write a program that will add a new element to the beginning
- * of the array (after testing it with 10 elements generalize it with the input as n)
- * Write a program that will add a new element to the beginning
- * of the a linked list (after testing it with 10 elements generalize it with the input as n)
- * Which algorithm performs better between A and B
- * Use the asymptotic time complexity of each algorithm to backup the answer.
+ * of the array (after testing it with 10 elements generalize it with the input as n).
  */
 
 void add_to_array(int arr[], int *n, int new_data)
